@@ -1,0 +1,8 @@
+[
+    { "command": "copyfile", "caption": "Copyfile This File" },
+    { "command": "gotoapi", "caption": "Go To Api" },
+    { "command": "gotoecosview", "caption": "Go To View" },
+    { "command": "custom", "caption": "Customize This File" },
+    { "command": "mytesttest", "caption": "test" },
+
+]

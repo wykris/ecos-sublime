@@ -1,0 +1,9 @@
+[ 
+    {
+        "keys": ["super+shift+g"],
+        "command": "ecosgotoanything"
+    },
+    { "keys": ["super+shift+o"], "command": "show_scope_name" }
+
+
+] 

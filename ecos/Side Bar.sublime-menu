@@ -1,0 +1,10 @@
+[
+    { 
+        "command": "newecosclass", 
+        "caption": "New ECOS Class",
+        "args": {
+            "paths": [],
+            "create_type":"auto"
+        }
+    }
+]
