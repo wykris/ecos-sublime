@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+error_log(${1:time()}.":".print_r('test',1)."\r\n",3,"/data/httpd/${2:log}.txt");
+]]></content>
+	<tabTrigger>dd</tabTrigger>
+
+</snippet>

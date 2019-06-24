@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+echo "<pre>";
+print_r(${1:var});
+]]></content>
+	<tabTrigger>pp</tabTrigger>
+
+</snippet>
